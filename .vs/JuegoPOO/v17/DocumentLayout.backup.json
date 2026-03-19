@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheWichol45\\source\\repos\\JuegoPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\form1main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\form1main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\form1main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Arquero.cs",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Arquero.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Arquero.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Arquero.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Arquero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:43:26.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mago.cs",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Mago.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Mago.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Mago.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Mago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:43:16.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guerrero.cs",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Guerrero.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Guerrero.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Guerrero.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Guerrero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:43:04.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Personaje.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Personaje.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Personaje.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Personaje.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:42:52.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1Main.cs",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs*",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswO4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:31:34.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:30:32.507Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.Designer.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.Designer.cs*",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:38:48.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

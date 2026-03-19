@@ -1,0 +1,11 @@
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\bin\Debug\JuegoPOO.exe.config
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\bin\Debug\JuegoPOO.exe
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\bin\Debug\JuegoPOO.pdb
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\obj\Debug\JuegoPOO.csproj.AssemblyReference.cache
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\obj\Debug\JuegoPOO.Form1.resources
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\obj\Debug\JuegoPOO.Properties.Resources.resources
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\obj\Debug\JuegoPOO.csproj.GenerateResource.cache
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\obj\Debug\JuegoPOO.csproj.CoreCompileInputs.cache
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\obj\Debug\JuegoPOO.exe
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\obj\Debug\JuegoPOO.pdb
+C:\Users\TheWichol45\source\repos\JuegoPOO\JuegoPOO\obj\Debug\JuegoPOO.exe.config
