@@ -6,10 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\form1main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\form1main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -18,7 +18,7 @@
       "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\form1main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11284D5E-78A1-47C9-A5A0-2FE27B9776D2}|JuegoPOO\\JuegoPOO.csproj|c:\\users\\thewichol45\\onedrive\\documentos\\tareas progra\\proyecto progra juego\\form1main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -61,20 +61,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Guerrero.cs",
               "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Guerrero.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Guerrero.cs",
               "ToolTip": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Guerrero.cs",
               "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Guerrero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T14:43:04.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Personaje.cs",
               "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Personaje.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Personaje.cs",
@@ -93,14 +93,14 @@
               "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs",
               "ToolTip": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs",
               "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAwwMQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAALYAAAAAAAAAAAAgwPcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T16:31:34.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1Main.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\TheWichol45\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Tareas progra\\proyecto progra juego\\Form1Main.cs",
